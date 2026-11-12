@@ -22,6 +22,8 @@ CIS5450-Olist-Project/
 │   │   ├── olist_orders_dataset.csv
 │   │   └── olist_order_items_dataset.csv
 │   └── processed/
+├── images/
+│   └── er_diagram.svg
 ├── notebooks/
 │   └── 01_data_cleaning.ipynb
 ├── README.md
