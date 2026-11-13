@@ -20,8 +20,10 @@ CIS5450-Olist-Project/
 ├── data/
 │   ├── raw/
 │   │   ├── olist_orders_dataset.csv
-│   │   └── olist_order_items_dataset.csv
+│   │   ├── olist_order_items_dataset.csv
+│   │   └── olist_customers_dataset.csv
 │   └── processed/
+│       └── olist_cleaned.csv
 ├── images/
 │   └── er_diagram.svg
 ├── notebooks/
