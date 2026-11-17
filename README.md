@@ -27,7 +27,10 @@ CIS5450-Olist-Project/
 ├── images/
 │   └── er_diagram.svg
 ├── notebooks/
-│   └── 01_data_cleaning.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_EDA.ipynb
+│   ├── 03_hypothesis_testing.ipynb
+│   └── 04_modeling.ipynb
 ├── README.md
 └── .gitignore
 ```
